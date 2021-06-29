@@ -2,7 +2,7 @@
 IPvoid Blacklisted IP scanner
 
 # Usage:
- $python black.py {list}
+ $ python black.py {list}
 
 # Requirments: 
  http.client
