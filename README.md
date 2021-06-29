@@ -5,6 +5,7 @@ IPvoid Blacklisted IP scanner
     $ python black.py {list}
 
 # Requirments: 
+* python3
 * http.client
 * re
 * colorama
