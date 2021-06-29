@@ -1,6 +1,11 @@
 # IPVOID-Scanner
 IPvoid Blacklisted IP scanner
 
+
+## Installtion: 
+ $ git clone 
+ $ pip3 install -r requirements.txt
+
 ## Usage:
     $ python black.py {list}
 
