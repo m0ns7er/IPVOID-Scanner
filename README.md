@@ -1,8 +1,8 @@
 # IPVOID-Scanner
 IPvoid Blacklisted IP scanner
 
-# Usage:
- $ python black.py {list}
+## Usage:
+    $ python black.py {list}
 
 # Requirments: 
  http.client
