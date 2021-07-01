@@ -7,7 +7,7 @@ IPvoid Blacklisted IP scanner
     $ pip3 install -r requirements.txt
 
 ## Usage:
-    $ python black.py {list}
+    $ python3 black.py {list}
 
 ## Requirments: 
 * python3
