@@ -1,9 +1,9 @@
 # IPVOID-Scanner
-IPvoid Blacklisted IP scanner
-
+This tool will help you check if a list of IP's have been blacklisted. 
 
 ## Installtion:
     $ git clone https://github.com/m0ns7er/IPVOID-Scanner.git
+    $ cd IPVOID-Scanner
     $ pip3 install -r requirements.txt
 
 ## Usage:
