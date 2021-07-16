@@ -1,6 +1,12 @@
 # IPVOID-Scanner
 This tool will help you check if a list of IP's have been blacklisted. 
 
+# Features
+- Scan for IP's on ipvoid.com.
+- Categories in to blackisted and safe IP.
+- Categories Region and Contry code for blacklisted IP.
+- Genrate output logfile.
+
 ## Installtion:
     $ git clone https://github.com/m0ns7er/IPVOID-Scanner.git
     $ cd IPVOID-Scanner
