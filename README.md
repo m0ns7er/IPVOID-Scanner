@@ -23,9 +23,10 @@ This tool will help you check if a list of IP's have been blacklisted.
  
 ## Screenshot :
 
-Console
+- Console
+
 ![IPVOID-Scanner](https://github.com/m0ns7er/IPVOID-Scanner/blob/main/Scanner.PNG)
 
-Output log
+- Output log
 
 ![IPVOID-Scanner](https://github.com/m0ns7er/IPVOID-Scanner/blob/main/log%20output.PNG)
