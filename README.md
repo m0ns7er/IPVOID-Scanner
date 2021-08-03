@@ -13,7 +13,7 @@ This tool will help you check if a list of IP's have been blacklisted.
     $ pip3 install -r requirements.txt
 
 ## Usage:
-    $ python3 black.py {list}
+    $ python3 black.py {list} {output-filename}
 
 ## Requirments: 
 * python3
