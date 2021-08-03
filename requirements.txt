@@ -1,1 +1,5 @@
+pytictoc==1.5.2
+requests==2.25.1
 colorama==0.4.4
+beautifulsoup4==4.9.3
+stem==1.8.0
